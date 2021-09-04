@@ -1,3 +1,7 @@
+######Load data########
+load("eurobonds_data.Rdata")
+load("eurobonds_long.Rdata")
+
 ######Load libraries######
 library(fixest)
 library(dplyr)
